@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 605px;
+  min-height: 615px;
 }
 
 .u-section-1 .u-text-1 {
@@ -106,12 +106,12 @@
 .u-section-1 .u-image-5 {
   width: 133px;
   height: 103px;
-  margin: 1028px auto 50px;
+  margin: 1028px auto 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 499px;
+    min-height: 507px;
   }
 
   .u-section-1 .u-text-1 {
@@ -132,7 +132,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 382px;
+    min-height: 388px;
   }
 
   .u-section-1 .u-text-1 {
@@ -254,12 +254,12 @@
     margin-bottom: 46px;
   }
 } .u-section-2 {
-  background-image: linear-gradient(0deg, rgba(41,45,51,0.75), rgba(41,45,51,0.75)), url('images/bokeh2yan.gif');
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(41,45,51,0.75), rgba(41,45,51,0.75)), url('images/Background.jpg');
+  background-position: 82.69% 0%;
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 715px;
+  min-height: 808px;
 }
 
 .u-section-2 .u-text-1 {
@@ -325,18 +325,17 @@
 
   .u-section-2 .u-text-1 {
     width: auto;
-    margin-top: 24px;
     margin-left: auto;
     margin-right: auto;
   }
 
   .u-section-2 .u-image-1 {
-    margin-top: -108px;
     margin-left: auto;
   }
 
   .u-section-2 .u-text-2 {
-    margin: 17px 11px 59px;
+    margin-left: 11px;
+    margin-right: 11px;
   }
 }
 
@@ -350,12 +349,9 @@
     font-weight: 700;
   }
 
-  .u-section-2 .u-image-1 {
-    margin-top: -56px;
-  }
-
   .u-section-2 .u-text-2 {
-    margin: 35px 0 60px 24px;
+    margin-left: 24px;
+    margin-right: 0;
   }
 }
 
@@ -379,9 +375,8 @@
 
   .u-section-2 .u-text-2 {
     line-height: 1.23;
-    margin-top: 15px;
+    margin-top: -237px;
     margin-left: 0;
-    margin-bottom: 24px;
   }
 }
 
@@ -398,8 +393,8 @@
 .u-section-2 .u-image-1.u-image-1.u-image-1.hover {
   transform: scale(1.1) translateX(0px) translateY(0px) !important;
 } .u-section-3 {
-  background-image: linear-gradient(0deg, rgba(41,45,51,0.75), rgba(41,45,51,0.75)), url('images/bokeh2yan.gif');
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(41,45,51,0.75), rgba(41,45,51,0.75)), url('images/Background.jpg');
+  background-position: 50% 100%;
 }
 
 .u-section-3 .u-sheet-1 {
